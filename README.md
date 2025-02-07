@@ -29,10 +29,10 @@ To configure a peer-to-peer IPv6 network using Cisco Packet Tracer with five com
    - Use the `ping` command in the command prompt to verify connectivity between all PCs.
    - Example: `ping 2001:db8:acad::2` from PC1.
 
-4. **Link-Local Address Testing 
+4. **Link-Local Address Testing**
    - Check assigned link-local addresses (`fe80::/10` range).
    - Ping other PCs using their link-local addresses.
 
-5. **Enable Additional Services
+5. **Enable Additional Services**
    - Set up PC1 as a web server (enable HTTP service in Packet Tracer).
    - Access the webpage from other PCs using `http://2001:db8:acad::1`.
